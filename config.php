@@ -6,7 +6,7 @@ define( 'DB_NAME', 'wp_q1hh9' );
 define( 'DB_USER', 'wp_fv8ma' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '081?$IFnZN&ID$jC' );
+define( 'DB_PASSWORD', ' *****' );
 
 /** MySQL hostname */
 define( 'DB_HOST', '10.2.49.45:3306' );
@@ -18,6 +18,7 @@ define( 'DB_CHARSET', 'utf8' );
 define( 'DB_COLLATE', '' );
 
     
+
 
 
 
